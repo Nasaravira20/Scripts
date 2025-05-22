@@ -1,2 +1,2 @@
 #!/bin/bash
-google-chrome "https://chatgpt.com/c/682ecaf3-a4e0-800f-b6e5-6e1c2f739942" "https://leetcode.com"
+firefox "https://chatgpt.com/c/682ed508-24b8-8000-9b7a-c2b3c3892bff" "https://leetcode.com"
